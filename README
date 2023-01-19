@@ -1,0 +1,4 @@
+332CA Panait Stefan-Andrei 
+    Pentru implementare am ales ca threadurile sa ia dinamic fisiere. In mappers cand un thread termina de prelucrat un fisier
+    ia celalalt fisier care este in vecotrul meu cu fisiere. Pentru a calcula puterile perfecte am facut o cautare binara.
+    In functia de reducers folosesc creez fisierul, adaug elementele intr-un set, iar apoi adaug in fisier sizeul.
